@@ -1,0 +1,10 @@
+Q2: Take variables as input and add them without using the + operator
+Input num 1
+Input num 2
+Set operator = ‘ – ’
+Set num3 = 0
+Set sum = 0 
+Num 3 = num1 * operator 
+Sum = ( num 1 – num 3) * operator
+Output Sum
+
