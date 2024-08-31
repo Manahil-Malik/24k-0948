@@ -1,8 +1,8 @@
 # 24k-0948
 programming fundamental lab 2
 ## My name is Manahil Malik##
-**I am currently pursuing my bachelors degree in computer science**/
-*lisitng down my personality traits*/
+**I am currently pursuing my bachelors degree in computer science**\
+*lisitng down my personality traits*\
 - sympathetic
   * confident
   + honest
