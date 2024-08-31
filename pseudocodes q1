@@ -1,0 +1,20 @@
+Q1: Create a small calculator 
+Input num1 
+Input num 2
+Input operator (+ , - )
+Set sum =0 
+If operator = ‘ +’ 
+Then
+Sum = num 1 + num 2
+Else if operator = ‘ –’
+Then
+  If num 1 > num 2
+  Then
+  Sum = num 1 – num 2 	
+   Else
+   Sum = num 2 – num1 
+   Output sum
+Else 
+Print “ Invalid operator used”
+Endif 
+Endif 
